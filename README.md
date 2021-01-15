@@ -4,6 +4,26 @@
 
 # Project Outline
 
+A group project as part of an MSc in Professional Software Development. This application is a patient intake list at a doctors surgery. Screening incoming patients symptons of COVID19. Prompting for and taking personal details from the user and storing these details. Additional diagnosis details can be entered by another user intended to be a doctor accessing the system from another interface.
+
+**My Role:**
+
+Taking on the role of project lead and compiling code created by all individuals.
+
+The structure of the application is:
+1. COVID screening questions
+2. Patient/user inputs details
+3. Doctor chooses patient  and enters diagnosis
+
+We compiled the code for the class files individually and combined the best elements.
+
+I created the main method, organised the code and methods created by others so it could function successfully. Sections in the main method are controlled with do..while loops and boolean variables which are assigned values in the methods called within the loops. With the methods created by others being altered where necessary.
+
+Having declared 3 object arrays at the beginning of the application, each representing the age brackets the surgery handled. Each brackets corresponding doctor was assigned in its class application. A method was used to create an object in the relevant array based on the age entered by patient/user.
+
+A method for each array was defined to print the details of the patients in an array and prompt for a patient ID. Searching through the array for an object with the same instance variable value it allows the object to be updated using a method defined by another in the group.
+
+
 # User Guide
 
 ## Section 1: COVID19 Check
