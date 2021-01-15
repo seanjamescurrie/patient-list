@@ -1,12 +1,10 @@
 # Contents
-### [Project Outline] ()
-### [User Guide] ()
+### [Project Outline](#-project-outline)
+### [User Guide](#-user-guide)
 
 # Project Outline
 
-# **User Guide:** Example Run Through
-
----
+# User Guide
 
 ## Section 1: COVID19 Check
 
