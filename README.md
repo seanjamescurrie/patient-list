@@ -36,7 +36,7 @@ Answer questions by entering single letter (not case sensitive) i.e.
 
 Entering ‘Y’ will send a message to exit surgery and loop the COVID19 check.
 
----
+
 
 ## Section 2: Patient Enters Information
 
@@ -61,7 +61,7 @@ Prompted to enter 0 to continue entering patients or 999 to move onto section th
 | **Year** | 2020 | 2019 | 1992 | 1991 | 1950 | 1951 |
 | **Guardian/Dependants/Next Of Kin** | Jayne | Sorcha | 1 | 1 | Jayne | Sorcha |
 
----
+
 
 ## Section 3: Doctor Enters Patient’s Diagnosis
 
@@ -87,7 +87,7 @@ Prompt asking if patient requires appointment scheduled - enter “YES” or “
 
 If YES – enter date (DD/MM/YYYY)
 
--
+
 
 ### Adults
 
@@ -111,7 +111,7 @@ Prompt asking if patient requires appointment scheduled - enter “YES” or “
 
 If YES – enter date (DD/MM/YYYY)
 
--
+
 
 ### Seniors
 
