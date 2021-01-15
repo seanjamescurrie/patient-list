@@ -48,7 +48,7 @@ Depending on year born, patient will be assigned to a doctor’s list (Minors, A
 
 After each patient enters details they will be notified of their doctor.
 
-Prompted to enter 0 to continue entering patients or 999 to move onto section that will simulate how a doctor will interact with the application.
+Prompted to enter 0 to continue entering patients or 999 to move onto section that will simulate how a doctor will interact with the application. *(each array is set to a  maximum length of 2 indexes)*
 
 *Use the following input information (in any order):*
 
