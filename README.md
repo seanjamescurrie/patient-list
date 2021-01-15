@@ -1,6 +1,8 @@
 # Contents
-[Project Outline](#-project-outline)
-[ User Guide](#-user-guide)
+
+[Project Outline](#project-outline)
+
+[ User Guide](#user-guide)
 
 # Project Outline
 
